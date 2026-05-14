@@ -48,6 +48,7 @@ class OpenGLRenderer(Renderer):
         self._executor = ProcessPoolExecutor(max_workers=1)
 
         ## SEU CÓDIGO AQUI ######################################################
+        # Inicializa o GLFW, core profile e OpenGL 3.3
 
         #########################################################################
 
